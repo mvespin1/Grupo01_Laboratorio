@@ -1,0 +1,28 @@
+/*animaciones*/
+#field {
+  height: 200px;
+  border-bottom: 3px black groove;
+  position: relative;
+}
+#train {
+  position: absolute;
+  cursor: pointer;
+}
+
+#cuadrado1{
+  background: #000;
+  width: 200px;
+  height: 200px;
+
+}
+
+#letras{
+  background-color: #8DCACB ;
+  width: 600px;
+  height: 100px;
+  font-size: 200%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
